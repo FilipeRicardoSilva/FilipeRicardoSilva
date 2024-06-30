@@ -3,6 +3,8 @@
 <div style="display: inline_block"><br>
  <p><img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> java</p>
  <p><img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"> Kotlin</p>
+   <img align="center" alt="react" src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
  <p><img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</p>
 
   
